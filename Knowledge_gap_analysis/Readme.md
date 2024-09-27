@@ -6,6 +6,8 @@
 **Team:** Lonewolf
 **Project:** Study Partner
 
+**Note:** The output from quizzes or events, such as multiple-choice questions (MCQs) or fill-in-the-blank exercises, should be saved in a **CSV file**. This project processes the CSV file, performing data analysis to identify knowledge gaps in student performance as part of the Knowledge Gap Analyzer.
+
 ## Introduction
 
 Welcome to Study Partner, an innovative project developed for the "Build Fast with AI" hackathon. This application serves as a knowledge gap analyzer, designed to revolutionize how we approach education and student performance tracking. As a solo developer (Team Lonewolf), I've embarked on this journey to create a tool that can significantly impact the educational landscape.
