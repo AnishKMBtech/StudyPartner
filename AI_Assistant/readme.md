@@ -1,5 +1,9 @@
 # Conversational Chatbot with Groq, FAISS, and Hugging Face
 
+You can explore and run the notebook using the following link:  
+[Google Colab Notebook](https://colab.research.google.com/drive/1UojO_7mzxdQJUB1od1HbYxfFqSpaBuuN?usp=sharing)
+
+
 This notebook is based on a chatbot built using the **Langchain** framework. Langchain provides a comprehensive interface for combining large language models (LLMs), data sources, and other components like vector stores, making it easy to build sophisticated, conversational AI applications.
 
 The chatbot is designed to retrieve information from a data source and answer questions interactively, using a combination of **Groq LLM**, **FAISS**, and **Hugging Face** text embeddings. The chatbot retrieves relevant content from the provided data link and responds based on the context of the conversation.
@@ -50,6 +54,8 @@ Verify that all required libraries are installed and imported correctly to ensur
 3. Install the dependencies and set up the environment by following the instructions.
 4. Modify the **Groq API key** and **data source URL** to suit your use case.
 5. Execute the cells in the notebook sequentially to load the data, run the chatbot, and evaluate its performance.
+
+
 
 ## Example Data Source
 - In this notebook, **Wikipedia** is used as an example for demonstrating the RAG process. You can replace the Wikipedia link with your custom data source URL to customize the chatbot for specific domains.
