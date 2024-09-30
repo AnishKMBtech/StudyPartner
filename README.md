@@ -1,6 +1,4 @@
 # Study Partner Project Documentation
-
-### Team Name: LoneWolf
 ### Project Name: Study Partner
 ### Author: Anish K.M
 
